@@ -3,7 +3,7 @@ Welcome to my Dictionary App! This project allows users to search for word defin
 
 # Features  
 
-Search for word definitions.
+Search for word definitions. 
 
 Display synonyms and antonyms of words.
 
