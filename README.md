@@ -1,5 +1,5 @@
 # WordVault--A-Modern-Dictionary
-Welcome to my Dictionary App! This project allows users to search for word definitions, synonyms, antonyms, and more.
+Welcome to my Dictionary App! This project allows users to search for word definitions, synonyms, antonyms, and more. 
 
 # Features  
 
