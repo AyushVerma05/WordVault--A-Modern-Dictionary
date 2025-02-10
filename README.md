@@ -13,7 +13,7 @@ Simple and intuitive user interface.
 
 Responsive design for all device sizes.
 
-# Technologies Used
+# Technologies Used  
 
 Frontend: HTML, CSS, JavaScript
 
